@@ -204,7 +204,12 @@ Primary use:
   line-height: 1.2;
 }
 
-
+.m2-txt2 {
+  font-family: Poppins-Regular;
+  font-size: 14px;
+  color: #999;
+  line-height: 1.2;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
