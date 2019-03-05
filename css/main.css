@@ -337,11 +337,16 @@ Primary use:
   font-size: 22px;
   background-color: #ccc;
   border-radius: 50%;
+  vertical-align: middle;
 }
 
 .how-social:hover {
   background-color: #573E7E;
   color: #fff;
+}
+
+.span12 {
+  text-align: center;
 }
 
 
